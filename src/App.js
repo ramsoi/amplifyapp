@@ -17,6 +17,7 @@ function App() {
       <LoginHooks />
       <LogoutHooks />
       <br />
+      {' '}
       <a href="https://github.com/ramsoi/amplifyapp">
         Github Repo
       </a>{' '}
